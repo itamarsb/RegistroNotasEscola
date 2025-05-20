@@ -6,3 +6,5 @@ Programa permite ao professor(a) registrar as notas de uma turma e associando pr
 O programa continua solicitando notas até que o professor digite 'fim'. Notas válidas são de 0 a 10. O programa ignora notas inválidas e continua solicitando novas notas.
 
 No final, exibe a média da turma.
+
+Tentei manter as funções no início do código - seguindo o padrão obrigatório do C++ - pois permite uma melhor visualização e entendimento do código.
